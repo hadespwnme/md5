@@ -1,5 +1,6 @@
 ## md5
 A tool for encrypt or decrypt md5 hash
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## How to run 🖥️️
