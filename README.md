@@ -11,11 +11,7 @@ A tool for encrypt or decrypt md5 hash
    ```sh
    cd md5
    ```
-3. Install requirements
-   ```sh
-   python3 -m pip install requirements.txt
-   ```
-4. Run app
+3. Run app
    ```sh
    python md5crack.py
    ```
